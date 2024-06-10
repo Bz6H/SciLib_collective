@@ -9,7 +9,7 @@ PLS SHARE THE LINK (https://github.com/Bz6H/SciLib_collective) WITH MORE PEOPLE,
 If there are any issues with the content in the PDF or if you have other questions on the modules, please feel free to contact us.
 
 Contributors:
-AH - Amy Han (amy.han.22@ucl.ac.uk)(Stream 2): NEUR0023, PHOL0004
+AH - Amy Han (amy.han.22@ucl.ac.uk)(Stream 2): NEUR0023, PHOL0004 \n
 BC - Byran Chan (ngai.chan.22@ucl.ac.uk)(Stream 1): ANAT0005, ANAT0006
 DW - Duo Wu (duo.wu.22@ucl.ac.uk)(Stream 5): ANAT0001, BIOC0007, CELL0009, PHAR0003, PHOL0001
 HL - Harper Ling (harper.ling.22@ucl.ac.uk)(Stream 5): BIOC0005, CELL0009
