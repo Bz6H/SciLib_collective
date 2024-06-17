@@ -4,7 +4,7 @@ This collective project is aimed to share notes with new second-year biomed stud
 The notes are summarised by Biomed students from different streams, so they **may contain errors or inaccuracies**, if you are sure there is an error in the notes, please contact **yuzhi.huang.22@ucl.ac.uk**
 Flashcards are saved in .apkg files and need to be downloaded and uploaded into your Anki app. 
 
-PLS SHARE THE LINK (https://github.com/Bz6H/SciLib_collective) WITH MORE PEOPLE, THIS ALLOWS EVERYONE TO ACCESS AND PREVENT ANY BASTARDS FROM SELLING THESE FOR PROFIT.
+**PLS SHARE THE LINK (https://github.com/Bz6H/SciLib_collective) WITH MORE PEOPLE, THIS ALLOWS EVERYONE TO ACCESS AND PREVENT ANY BASTARDS FROM SELLING THESE FOR PROFIT.**
 
 If there are any issues with the content in the PDF or if you have other questions on the modules, please feel free to contact us.
 
